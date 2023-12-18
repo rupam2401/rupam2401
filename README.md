@@ -11,7 +11,7 @@ href="https://nodejs.org/static/images/logo.svg"
 
 ## 🔧 Technologies & Tools
 
-[![Tech1](link_to_tech1_icon)](link_to_tech1)
+[![Tech1](https://www.rust-lang.org/static/images/rust-logo-blk.svg)](link_to_tech1)
 [![Tech2](link_to_tech2_icon)](link_to_tech2)
 [![Tech3](link_to_tech3_icon)](link_to_tech3)
 <!-- Add more as needed -->
