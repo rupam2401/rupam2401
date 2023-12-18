@@ -2,8 +2,9 @@
 
 [Enter Description Here]
 
-
-<href="https://www.gstatic.com/devrel-devsite/prod/v0e0f589edd85502a40d78d7d0825db8ea5ef3b99ab4070381ee86977c9168730/cloud/images/cloud-logo.svg">
+<p>
+  href="https://www.gstatic.com/devrel-devsite/prod/v0e0f589edd85502a40d78d7d0825db8ea5ef3b99ab4070381ee86977c9168730/cloud/images/cloud-logo.svg"
+</p>
 href="https://www.rust-lang.org/static/images/rust-logo-blk.svg"
 href="https://nodejs.org/static/images/logo.svg"
 
